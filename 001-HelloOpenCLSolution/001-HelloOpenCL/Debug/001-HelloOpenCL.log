@@ -1,0 +1,8 @@
+﻿  001-HelloOpenCL.cpp
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\001-HelloOpenCLSolution\001-HelloOpenCL\001-HelloOpenCL.cpp(257,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\001-HelloOpenCLSolution\001-HelloOpenCL\001-HelloOpenCL.cpp(315,45): warning C4244: '=': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\001-HelloOpenCLSolution\001-HelloOpenCL\001-HelloOpenCL.cpp(330,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\001-HelloOpenCLSolution\001-HelloOpenCL\001-HelloOpenCL.cpp(235,13): warning C4101: 'platformCount': unreferenced local variable
+C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\001-HelloOpenCLSolution\001-HelloOpenCL\001-HelloOpenCL.cpp(238,13): warning C4101: 'ret_num_devices': unreferenced local variable
+  LINK : C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\001-HelloOpenCLSolution\Debug\001-HelloOpenCL.exe not found or not built by the last incremental link; performing full link
+  001-HelloOpenCL.vcxproj -> C:\Users\prana\OneDrive\Desktop\Self Learning Stuff\OpenCL\001-HelloOpenCLSolution\Debug\001-HelloOpenCL.exe
